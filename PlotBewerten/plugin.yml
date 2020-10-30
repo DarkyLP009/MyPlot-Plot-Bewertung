@@ -1,6 +1,6 @@
 name: PlotBewerten
 author: TrenicHD
-main: TrenicHD\Main
+main: einfxchdarky
 api: [3.0.0 , 4.0.0]
 description: ein Plot Bewerte System
 version: 1.0.0
